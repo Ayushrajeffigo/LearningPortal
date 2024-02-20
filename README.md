@@ -1,4 +1,5 @@
 # LearningPortal
 #Still Doing
-LearningPortals
-![learningPortalErDiagram](https://github.com/Ayushrajeffigo/LearningPortal/assets/159436878/2aa66e3c-1604-4bc8-9813-6325a5262610)
+LearningPortals![LearningPortalFinalEr](https://github.com/Ayushrajeffigo/LearningPortal/assets/159436878/5374a721-4cc5-4b21-a78c-2b4e4c5f75d0)
+
+
